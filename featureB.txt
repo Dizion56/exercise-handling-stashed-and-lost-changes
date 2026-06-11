@@ -1,1 +1,1 @@
-Modify feature B
+Modify feature B adding changes from branch
